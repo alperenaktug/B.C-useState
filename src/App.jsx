@@ -1,4 +1,4 @@
-import MyComponent from "../MyComponent";
+import MyComponent from "./MyComponent";
 import Counter from "./Counter";
 
 function App() {
